@@ -1,0 +1,32 @@
+# Trained models
+Models/*.pkl
+Models/*.model
+
+# Output artifacts
+Outputs/*.csv
+Outputs/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv/
+venv/
